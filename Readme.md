@@ -6,6 +6,8 @@
 
 * **Node.js**
 * **MongoDB**
+* **HTML**
+* **CSS*
 
 ****
 
