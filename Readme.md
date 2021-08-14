@@ -7,7 +7,7 @@
 * **Node.js**
 * **MongoDB**
 * **HTML**
-* **CSS*
+* **CSS**
 
 ****
 
