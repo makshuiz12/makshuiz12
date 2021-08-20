@@ -8,6 +8,7 @@
 * **MongoDB**
 * **HTML**
 * **CSS**
+* **Typescript**
 
 ****
 
