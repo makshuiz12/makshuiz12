@@ -10,6 +10,7 @@
 * **CSS**
 * **Typescript**
 * **Discord.js**
+* **MySQL**
 
 ****
 
