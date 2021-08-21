@@ -9,6 +9,7 @@
 * **HTML**
 * **CSS**
 * **Typescript**
+* **Discord.js**
 
 ****
 
