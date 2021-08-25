@@ -17,7 +17,6 @@
 # 💻 | На данный момент я работаю/помогаю с ботами:
 
 * **💙 | Red Rock Informals Organizations**
-* **🧡 | Izanami**
 * **🎅 | Capture Info**
 
 ****
