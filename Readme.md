@@ -6,9 +6,7 @@
 
 * **Node.js**
 * **MongoDB**
-* **HTML**
-* **CSS**
-* **Typescript**
+* **Vue.js**
 * **Discord.js**
 * **MySQL**
 
